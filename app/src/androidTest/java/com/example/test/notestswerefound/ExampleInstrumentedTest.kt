@@ -17,14 +17,6 @@ import org.junit.BeforeClass
 @RunWith(AndroidJUnit4::class)
 class ExampleInstrumentedTest {
 
-//    companion object {
-//        @BeforeClass
-//        @JvmStatic
-//        fun beforeClass() {
-//            throw RuntimeException("Where is stacktrace?")
-//        }
-//    }
-
     @Test
     fun useAppContext() {
         // Context of the app under test.
